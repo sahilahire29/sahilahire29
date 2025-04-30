@@ -65,7 +65,7 @@ Implemented a **conditional GAN** to learn pixel-to-pixel transformations.
 
 ---
 
-## 📊 GitHub Stats
+<!--## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sahilahire29&show_icons=true&theme=radical" width="45%"/>
@@ -74,7 +74,7 @@ Implemented a **conditional GAN** to learn pixel-to-pixel transformations.
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilahire29&layout=compact&theme=radical" width="45%"/>
 </p>
-
+-->
 ---
 
 ## 📫 Get in Touch
