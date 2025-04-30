@@ -5,7 +5,7 @@
 [![GitHub followers](https://img.shields.io/github/followers/sahilahire29?label=Follow&style=social)](https://github.com/sahilahire29)
 
 🎓 **B.Tech CSE (AI & Analytics)** | 📍 **MIT ADT University, Pune**  
-💡 **AI Enthusiast • Generative AI Developer • Smart Contract Analyzer**
+💡 **AI Enthusiast • Generative AI Developer **
 
 ---
 
